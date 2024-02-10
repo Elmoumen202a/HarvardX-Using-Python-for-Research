@@ -32,7 +32,7 @@ This repository documents my successful completion of the HarvardX course "Using
 I successfully completed the course and earned the ["Using Python for Research"](https://courses.edx.org/certificates/131ec972ddd94fb386bd099d387822d7) certification.
 
 <div align="center">
-  <img src="img/Certificate.png" alt="Certification" width="400">
+  <img src="img/Certificate.png" alt="Certification" >
 </div>
 
 ## About the Instructors
